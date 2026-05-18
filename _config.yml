@@ -189,7 +189,7 @@ keep_files:
   - .nojekyll
 
 plugins:
-  - jekyll-3rd-party-libraries
+  # - jekyll-3rd-party-libraries
   - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
