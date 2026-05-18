@@ -61,11 +61,7 @@ layout: default
 
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
-      <!--
-        Table of contents disabled for GitHub Pages build stability.
-        The original al-folio template used the unsupported Liquid tag:
-        {% raw %}{% toc %}{% endraw %}
-      -->
+      <!-- TOC disabled for GitHub Pages build stability. -->
     {% endif %}
 
     <div id="markdown-content">
@@ -78,10 +74,11 @@ layout: default
   {% endif %}
 
   {% if page.related_publications %}
-    <h2>References</h2>
-    <div class="publications">
-      {% bibliography --group_by none --cited_in_order %}
-    </div>
+    <!--
+      Related publications bibliography disabled for first-stage GitHub Pages build stability.
+      The original al-folio template used:
+      {% raw %}{% bibliography --group_by none --cited_in_order %}{% endraw %}
+    -->
   {% endif %}
 
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}
