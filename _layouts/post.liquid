@@ -61,11 +61,13 @@ layout: default
 
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
-      <div id="table-of-contents">
-        {% toc %}
-      </div>
-      <hr>
+      <!--
+        Table of contents disabled for GitHub Pages build stability.
+        The original al-folio template used the unsupported Liquid tag:
+        {% raw %}{% toc %}{% endraw %}
+      -->
     {% endif %}
+
     <div id="markdown-content">
       {{ content }}
     </div>
