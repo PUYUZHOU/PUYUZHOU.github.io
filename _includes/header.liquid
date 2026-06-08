@@ -21,8 +21,8 @@
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% social_links %}</div>
+        <!-- Social icons disabled for GitHub Pages build stability. -->
+        <div class="navbar-brand social"></div>
       {% endif %}
       <!-- Navbar Toggle -->
       <button
@@ -126,7 +126,7 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
-            <!-- Toogle theme mode -->
+            <!-- Toggle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
                 <i class="fa-half-sun-moon" id="light-toggle-system"></i>
