@@ -27,14 +27,12 @@ latest_posts:
   limit: 3
 ---
 
-I am **Puyu Zhou**, a PhD candidate in **Artificial Intelligence** at the **Faculty of Innovation Engineering, Macau University of Science and Technology**.
+Hi, I am **Puyu Zhou**, a PhD candidate in **Artificial Intelligence** at the **Faculty of Innovation Engineering, Macau University of Science and Technology**. I enjoy turning ambitious ideas into practical research—and I am always happy to exchange perspectives with people from different fields.
 
-My research focuses on **Neural Radiance Fields**, **3D reconstruction**, and **cross-domain machine learning**. I am interested in neural scene representation, editable neural rendering, and machine learning applications across healthcare, economics, and computational art.
+My research centers on **Neural Radiance Fields**, **3D reconstruction**, and **cross-domain machine learning**. I am especially interested in neural scene representation and editable neural rendering, as well as in bringing machine learning into interdisciplinary settings spanning healthcare, economics, and computational art.
 
-Previously, I received my **MSc in Management** from the School of Business, Macau University of Science and Technology. My background allows me to work across technical AI research and interdisciplinary applications.
+Before beginning my doctoral studies, I received an **MSc in Management** from the School of Business at Macau University of Science and Technology. This interdisciplinary path shapes how I approach research: with technical rigor, curiosity about real-world problems, and an eye for connections across domains.
 
-I am currently **seeking postdoctoral opportunities**. For research collaborations, postdoctoral opportunities, or general inquiries, please contact me by email.
+I am currently **seeking postdoctoral opportunities** and would love to connect with researchers working on related questions. For collaborations, opportunities, or simply an interesting research conversation, please feel free to contact me by email.
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=U6J9XTgAAAAJ&hl=zh-CN), [OpenReview](https://openreview.net/profile?id=~Puyu_Zhou1), [GitHub](https://github.com/miachowwwww), and [LinkedIn](https://www.linkedin.com/in/puyu-zhou-6953a4259/).
-For lighter conversations beyond research, I am also reachable on Discord: `puyu_zhou`.
-
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=U6J9XTgAAAAJ&hl=zh-CN), [OpenReview](https://openreview.net/profile?id=~Puyu_Zhou1), [GitHub](https://github.com/miachowwwww), and [LinkedIn](https://www.linkedin.com/in/puyu-zhou-6953a4259/). For lighter conversations beyond research, I am also on Discord: `puyu_zhou`.

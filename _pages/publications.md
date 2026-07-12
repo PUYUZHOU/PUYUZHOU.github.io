@@ -15,6 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
+{% include publication_contribution_note.liquid %}
+
 {% bibliography %}
 
 </div>
