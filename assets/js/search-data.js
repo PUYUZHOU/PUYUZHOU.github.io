@@ -77,16 +77,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-tif-a-multi-scale-data-fusion-and-fourier-encoding-framework-for-financial-risk-prediction-is-now-published-online-in-the-journal-of-forecasting",
+          title: 'Our paper, “TiF: A Multi-Scale Data Fusion and Fourier Encoding Framework for Financial...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
