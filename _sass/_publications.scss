@@ -81,6 +81,18 @@
           }
         }
 
+        > strong {
+          color: #6f42c1;
+          font-weight: 700;
+          text-decoration: underline;
+          text-decoration-thickness: 2px;
+          text-underline-offset: 2px;
+
+          html[data-theme="dark"] & {
+            color: #b39ddb;
+          }
+        }
+
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
